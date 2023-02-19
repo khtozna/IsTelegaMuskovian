@@ -20,6 +20,8 @@
 
 - https://www.wired.com/story/telegram-encryption-whatsapp-settings/?fbclid=IwAR2JnKiynKckn2--QbPJ0Aet8DNHN9btqC3gKOLwqOtGW_A6Rkvo7lrpGc4
 
+- https://www.wired.com/story/the-kremlin-has-entered-the-chat/?fbclid=IwAR2ZQZLPJlcdvOymKq0gIY3QUlPPw_-HwBn2PmyATMhZ4jS9Xvl4nKfEw6U
+
 - https://twitter.com/moxie/status/1497001286444617746?s=20&t=xmq_UCCCMLw5jdl3SDqoHQ
 
 ### Список популяризаторів Тєлєґраму в українському медіа просторі
