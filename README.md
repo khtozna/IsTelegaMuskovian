@@ -16,13 +16,17 @@
 
 #### Додаткові посилання:
 
-- https://www.forbes.com/sites/thomasbrewster/2022/02/25/ukraine-warned-over-danger-of-russian-spying-on-unencrypted-telegram/?sh=6d161473487f&fbclid=IwAR2Q7DiSQwMUURCTQHXer0JUEe5OANAH2jv1YwROBqgrcHYZv5trm_tQxWI
+- mvp #4 Telegram на службі ФСБ [ https://www.youtube.com/watch?v=11sfls7UgVk ]
 
-- https://www.wired.com/story/telegram-encryption-whatsapp-settings/?fbclid=IwAR2JnKiynKckn2--QbPJ0Aet8DNHN9btqC3gKOLwqOtGW_A6Rkvo7lrpGc4
+- Ukraine Warned Over Danger Of Russian Spying On Telegram [ https://www.forbes.com/sites/thomasbrewster/2022/02/25/ukraine-warned-over-danger-of-russian-spying-on-unencrypted-telegram/?sh=6d161473487f&fbclid=IwAR2Q7DiSQwMUURCTQHXer0JUEe5OANAH2jv1YwROBqgrcHYZv5trm_tQxWI ]
 
-- https://www.wired.com/story/the-kremlin-has-entered-the-chat/?fbclid=IwAR2ZQZLPJlcdvOymKq0gIY3QUlPPw_-HwBn2PmyATMhZ4jS9Xvl4nKfEw6U
+- Fleeing WhatsApp for Better Privacy? Don't Turn to Telegram [ https://www.wired.com/story/telegram-encryption-whatsapp-settings/?fbclid=IwAR2JnKiynKckn2--QbPJ0Aet8DNHN9btqC3gKOLwqOtGW_A6Rkvo7lrpGc4 ]
 
-- https://twitter.com/moxie/status/1497001286444617746?s=20&t=xmq_UCCCMLw5jdl3SDqoHQ
+- The Kremlin Has Entered the Chat [ https://www.wired.com/story/the-kremlin-has-entered-the-chat/?fbclid=IwAR2ZQZLPJlcdvOymKq0gIY3QUlPPw_-HwBn2PmyATMhZ4jS9Xvl4nKfEw6U ]
+
+- Засновник Signal про Тєлєґрам: https://twitter.com/moxie/status/1497001286444617746?s=20&t=xmq_UCCCMLw5jdl3SDqoHQ
+
+- Месенджер за мільярд: як пов’язані розміщення облігацій Telegram та безпека [ https://thepage.ua/ua/it/yak-povyazani-rozmishennya-obligacij-telegram-ta-bezpeka?fbclid=IwAR2674yjNdP5G8sE7BL57PZF_OH07fWUznYqJOCHDBlKiS7Idlt0swFc2GI ]
 
 ### Список популяризаторів Тєлєґраму в українському медіа просторі
 В список додаватимуться публічні діячі та організації, на підставі використання Тєлєґраму в якості єдиного чи основного майданчику для публікацій оригінальної інформації (джерела), або активного заохочення до його використання. Перед внесенням до списку, дана сторінка передчасно відправляється їм для ознайомлення.
