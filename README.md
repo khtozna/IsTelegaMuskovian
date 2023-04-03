@@ -12,19 +12,23 @@
 - одною з суттєвих "переваг" Тєлєґраму є можливість поширення великих файлів, бо технічно це потребує суттєвого фінансування на оперування файлових сховищ, що не покривається класичними доходами демократичних месенджерів.
 
 #### Додаткові посилання:
-- Ярема Дух: Ризики Телеграму – які шанси, що в росіян вже є наші дані? [ https://www.youtube.com/watch?v=pSZXjpsYW4E ]
+- [Ярема Дух: Ризики Телеграму – які шанси, що в росіян вже є наші дані?](https://www.youtube.com/watch?v=pSZXjpsYW4E)
 
-- УТ-2: mvp #4 Telegram на службі ФСБ [ https://www.youtube.com/watch?v=11sfls7UgVk ]
+- [УТ-2: mvp #4 Telegram на службі ФСБ](https://www.youtube.com/watch?v=11sfls7UgVk)
 
-- Ukraine Warned Over Danger Of Russian Spying On Telegram [ https://www.forbes.com/sites/thomasbrewster/2022/02/25/ukraine-warned-over-danger-of-russian-spying-on-unencrypted-telegram/?sh=6d161473487f&fbclid=IwAR2Q7DiSQwMUURCTQHXer0JUEe5OANAH2jv1YwROBqgrcHYZv5trm_tQxWI ]
+- [Ukraine Warned Over Danger Of Russian Spying On Telegram](https://www.forbes.com/sites/thomasbrewster/2022/02/25/ukraine-warned-over-danger-of-russian-spying-on-unencrypted-telegram/?sh=6d161473487f&fbclid=IwAR2Q7DiSQwMUURCTQHXer0JUEe5OANAH2jv1YwROBqgrcHYZv5trm_tQxWI)
 
-- Fleeing WhatsApp for Better Privacy? Don't Turn to Telegram [ https://www.wired.com/story/telegram-encryption-whatsapp-settings/?fbclid=IwAR2JnKiynKckn2--QbPJ0Aet8DNHN9btqC3gKOLwqOtGW_A6Rkvo7lrpGc4 ]
+- [Fleeing WhatsApp for Better Privacy? Don't Turn to Telegram](https://www.wired.com/story/telegram-encryption-whatsapp-settings/?fbclid=IwAR2JnKiynKckn2--QbPJ0Aet8DNHN9btqC3gKOLwqOtGW_A6Rkvo7lrpGc4)
 
-- The Kremlin Has Entered the Chat [ https://www.wired.com/story/the-kremlin-has-entered-the-chat/?fbclid=IwAR2ZQZLPJlcdvOymKq0gIY3QUlPPw_-HwBn2PmyATMhZ4jS9Xvl4nKfEw6U ]
+- [The Kremlin Has Entered the Chat](https://www.wired.com/story/the-kremlin-has-entered-the-chat/?fbclid=IwAR2ZQZLPJlcdvOymKq0gIY3QUlPPw_-HwBn2PmyATMhZ4jS9Xvl4nKfEw6U)
 
-- Засновник Signal про Тєлєґрам: https://twitter.com/moxie/status/1497001286444617746?s=20&t=xmq_UCCCMLw5jdl3SDqoHQ
+- [Коментар Засновника Signal Moxie Marlinspike](https://twitter.com/moxie/status/1497001286444617746?s=20&t=xmq_UCCCMLw5jdl3SDqoHQ)
 
-- Месенджер за мільярд: як пов’язані розміщення облігацій Telegram та безпека [ https://thepage.ua/ua/it/yak-povyazani-rozmishennya-obligacij-telegram-ta-bezpeka?fbclid=IwAR2674yjNdP5G8sE7BL57PZF_OH07fWUznYqJOCHDBlKiS7Idlt0swFc2GI ]
+- [Месенджер за мільярд: як пов’язані розміщення облігацій Telegram та безпека](https://thepage.ua/ua/it/yak-povyazani-rozmishennya-obligacij-telegram-ta-bezpeka?fbclid=IwAR2674yjNdP5G8sE7BL57PZF_OH07fWUznYqJOCHDBlKiS7Idlt0swFc2GI)
+
+- Чому Україна не обмежує використання російського додатку Telegram? [ [Українська правда 🇺🇦](https://www.pravda.com.ua/columns/2023/03/29/7395475/) / [The Kyiv Independent 🇬🇧](https://kyivindependent.com/yaroslav-azhnyuk-why-doesnt-ukraine-restrict-use-of-the-russian-telegram-app/?fbclid=IwAR0j-DujGN9x27cPFxvFVcOAVOFs6l78ajm5mm9I-hHf8F7KMO7rmR8wPKw) ]
+
+- [Микола Давидюк: Чи варто закривати Телеграм?](https://www.youtube.com/watch?v=SAhfe0CgVek)
 
 ### Відкриті питання:
 - звідки довготривало фінансувалися проєкти Дурова в перші роки, коли розробку, вартість купівлі та утримування серверів та офісів можна оцінювати в мільйон+ доларів?
